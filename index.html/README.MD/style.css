@@ -1,0 +1,41 @@
+body{
+    background-color: #130e48;
+    font-family: 'Roboto',sans-serif;
+}
+
+#main{
+    color:#fff;
+}
+img{
+    width: 150px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border:6px solid #efa593;
+    max-width:100px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img div{
+    text-align:center;
+    align-content:center;
+
+}
+#title{
+    text-align:right;
+    margin-right: 15px;
+    font-size:15px;
+
+}
+img-caption{
+    align-content: center;
+}
+#info{
+    display:flex;
+    top:20px;
+    position:absolute
+}
+#tribute info <p>{
+    width: 15px;
+    margin-left: 40px;
+}
